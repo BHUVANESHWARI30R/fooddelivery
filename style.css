@@ -42,9 +42,9 @@ h1{
 fieldset {
   width: 100px;
   height: auto;
-  padding-top: 1px;
-  padding-left: 80px;
-  padding-right: 80px;
+  padding-top: 25px;
+  padding-left: 100px;
+  padding-right: 100px;
   padding-bottom: 5px;
   margin: 0;
   border-radius: 10%;
